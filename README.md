@@ -66,3 +66,7 @@ Conclusion
 Presenter: Riya Kumari
 - *Script*:  
   "In conclusion, Quizzipedia is a modern and interactive quiz application aimed at making learning enjoyable. With its robust features and user-friendly design, we believe it offers a great experience for users. We’re excited to continue improving and expanding its capabilities."
+
+
+
+  PPT: https://www.canva.com/design/DAGVzd9md44/AMGjYz4pRQXYHjPjXyf43Q/edit?utm_content=DAGVzd9md44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
